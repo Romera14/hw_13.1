@@ -28,11 +28,11 @@
 
 Ответьте на следующие вопросы:
 
-- Какие сетевые службы в ней разрешены?
+1 Какие сетевые службы в ней разрешены?
 
 ![](https://github.com/Romera14/hw_13.1/blob/main/Снимок%20экрана%202023-03-10%20в%2021.51.01.png)
 
-- Какие уязвимости были вами обнаружены? (список со ссылками: достаточно трёх уязвимостей)
+2 Какие уязвимости были вами обнаружены? (список со ссылками: достаточно трёх уязвимостей)
 * PostgreSQL 8.3.6 - Conversion Encoding Remote Denial of Service
 * UnrealIRCd 3.2.8.1 - Backdoor Command Execution (Metasploit)
 * vsftpd 2.3.4 - Backdoor Command Execution (Metasploit)
